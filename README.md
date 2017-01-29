@@ -53,7 +53,7 @@ To select an entity go to the "Selection" (2nd tab) and click "Enable selection 
 
 To export the map go to the "Import/Export" tab, type your map name and click export.
 
-You can also put your own textures in the game. Simply put the corrsponding picture in the "res/Textures" folder and name it appropriately ("<type>_myEntity.png").
+You can also put your own textures in the game. Simply put the corrsponding picture in the "res/Textures" folder and name it appropriately ("[TYPE]_myEntity.png").
 
 # Notes
 
