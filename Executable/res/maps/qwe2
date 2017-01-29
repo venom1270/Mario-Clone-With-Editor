@@ -1,0 +1,29 @@
+0 100 200
+1 tile_brick.png 0 0
+1 tile_brick.png 0 50
+1 tile_brick.png 0 100
+1 tile_brick.png 0 150
+1 tile_brick.png 0 200
+1 tile_brick.png 0 250
+1 tile_brick.png 0 300
+1 tile_brick.png 0 350
+1 tile_brick.png 0 400
+1 tile_brick.png 0 450
+1 tile_brick.png 0 500
+1 tile_brick.png 0 550
+1 tile_brick.png 50 550
+1 tile_brick.png 100 550
+1 tile_brick.png 150 550
+1 tile_brick.png 200 550
+1 tile_brick.png 250 550
+1 tile_brick.png 300 550
+1 tile_brick.png 350 550
+1 tile_brick.png 400 550
+1 tile_brick.png 50 0
+1 tile_brick.png 450 550
+1 tile_brick.png 500 550
+1 tile_brick.png 550 550
+1 tile_brick.png 250 500
+1 tile_brick.png 550 500
+2 enemy_rakec.png 200 300 200
+3 exit_symbol.png 300 300 qwe

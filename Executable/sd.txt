@@ -1,0 +1,15 @@
+100 20 qwe
+50 12 qwe
+45 78 qwe
+233 65 qwe
+0 2 qwew
+79 5 qqwe
+
+200 14 EPIC
+0 21 qwe
+0 23 qwe
+0 5 qwe
+16 14 qwe
+90 3 qwe
+0 26 qwe
+150 2 qweqwe
